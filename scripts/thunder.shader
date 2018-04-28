@@ -340,7 +340,7 @@ textures/thunder/ladder
 
 textures/thunder/ter_rocksand_xy
 {
-	qer_editorimage textures/common/terrain
+	qer_editorimage textures/thunder/ter_rocksand_p
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )
@@ -368,7 +368,7 @@ textures/thunder/ter_rocksand_xy
 
 textures/thunder/ter_rocksand_xz
 {
-	qer_editorimage textures/common/terrain
+	qer_editorimage textures/thunder/ter_rocksand_p
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 0 256 )
@@ -396,7 +396,7 @@ textures/thunder/ter_rocksand_xz
 
 textures/thunder/ter_rocksand_yz
 {
-	qer_editorimage textures/common/terrain
+	qer_editorimage textures/thunder/ter_rocksand_p
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 0 256 0 ) ( 0 0 256 )
