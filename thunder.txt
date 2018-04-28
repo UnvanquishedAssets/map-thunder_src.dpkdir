@@ -57,9 +57,9 @@ Number of entities : 405
 
 -Compile information:
 
-Bsp = -meta -custinfoparms -samplesize 8 = 294 Seconds
-Vis = -vis -saveprt = 6293 Seconds
-Light = -light -fast -dirty -patchshadows -deluxe -deluxemode 1 -samples 2 -samplesize 8 -lightmapsize 512 = 2483 Seconds
+Bsp = -meta -custinfoparms -samplesize 16 = 300ish Seconds
+Vis = -vis -saveprt = 1000ish Seconds
+Light = -light -fast -dirty -patchshadows -deluxe -deluxemode 0 -samples 2 -samplesize 16 -lightmapsize 512 = 3000ish Seconds
 
 Total build time: 9070 seconds or 2.5 hours
 
