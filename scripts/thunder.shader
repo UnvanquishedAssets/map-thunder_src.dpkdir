@@ -154,23 +154,23 @@ textures/thunder/skybright
 
 textures/thunder/pk02_rock01
 {
-	qer_editorimage		textures/thunder/pk02_rock01_C
+	qer_editorimage		textures/thunder/pk02_rock01_d
 	q3map_nonplanar
 	q3map_shadeangle 90
-	diffusemap		textures/thunder/pk02_rock01_C
-	bumpmap		 	textures/thunder/pk02_rock01_N
-	specularmap		textures/thunder/pk02_rock01_S
+	diffusemap		textures/thunder/pk02_rock01_d
+	bumpmap		 	textures/thunder/pk02_rock01_n
+	specularmap		textures/thunder/pk02_rock01_s
 }
 
 textures/thunder/pk02_sand01
 {
-	qer_editorimage 	textures/thunder/pk02_sand01_C
+	qer_editorimage 	textures/thunder/pk02_sand01_d
 	q3map_nonplanar
 	q3map_shadeangle 90
-	diffusemap 		textures/thunder/pk02_sand01_C
+	diffusemap 		textures/thunder/pk02_sand01_d
  
-	bumpmap 		textures/thunder/pk02_sand01_N
-	specularmap 		textures/thunder/pk02_sand01_S
+	bumpmap 		textures/thunder/pk02_sand01_n
+	specularmap 		textures/thunder/pk02_sand01_s
 }
 
 
@@ -347,12 +347,12 @@ textures/thunder/ter_rocksand_xy
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder/pk02_rock01_C
+		map textures/thunder/pk02_rock01_d
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder/pk02_sand01_C_A
+		map textures/thunder/pk02_sand01_d
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
@@ -375,12 +375,12 @@ textures/thunder/ter_rocksand_xz
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder/pk02_rock01_C
+		map textures/thunder/pk02_rock01_d
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder/pk02_sand01_C_A
+		map textures/thunder/pk02_sand01_d
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
@@ -403,12 +403,12 @@ textures/thunder/ter_rocksand_yz
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder/pk02_rock01_C
+		map textures/thunder/pk02_rock01_d
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder/pk02_sand01_C_A
+		map textures/thunder/pk02_sand01_d
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
