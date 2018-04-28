@@ -1,0 +1,90 @@
+~~~THUNDER~~~
+
+By EmperorJack
+
+For Unvanquished @ unvanquished.net
+
+______________________________________________________________________________________________
+-Story:
+
+A station on a planet englufed in a continous thunderstorm. The station uses lightning rods to capture
+lightning from the storm and turn it into electricity. 3 massive power lines export the power to other
+places on the planet and presumably places where it can be exported to other places in the galaxy.
+
+______________________________________________________________________________________________
+-Gameplay:
+
+This is a large map.
+4v4 would be an absolute minimum.
+8v8 would be good probobly.
+12v12 would be excellent.
+
+______________________________________________________________________________________________
+-Textures:
+
+evillair : eX
+Me : monitor textures
+StarAndCircle from filterforge : generator lightning texture
+Me : Skybox
+
+(Very special thanks to evillair @ http://www.evillair.net/v2/
+His texture pack was a huge part in this map so thanks to him!)
+
+Note: I wrote the entire thunder.shader and thunder_lightningeffects.shader for the custom shaders in this map.
+I did reference other map shaders and reference the q3 shader manual.
+(Special thanks to simon @ http://www.simonoc.com/pages/articles.htm for teaching me terrain!)
+
+______________________________________________________________________________________________
+-Sounds:
+
+(Freesound.org)
+
+oyenstikker : drone
+ERH : deepbassrumble
+Anton : wind
+Erdie : thunder
+artifact : lightningstrike
+
+(wind and thunder were mashed together!
+Also thanks to cron for looping some sounds for me!)
+______________________________________________________________________________________________
+-Information:
+
+Filename : map-thunder-beta.pk3
+
+Number of brushes : 21513
+Number of entities : 405
+
+-Compile information:
+
+Bsp = -meta -custinfoparms -samplesize 8 = 294 Seconds
+Vis = -vis -saveprt = 6293 Seconds
+Light = -light -fast -dirty -patchshadows -deluxe -deluxemode 1 -samples 2 -samplesize 8 -lightmapsize 512 = 2483 Seconds
+
+Total build time: 9070 seconds or 2.5 hours
+
+______________________________________________________________________________________________
+-Licensing: Creative Commons:
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/nz/
+
+Attribution-NonCommercial-ShareAlike 3.0 New Zealand (CC BY-NC-SA 3.0)
+
+You are free:
+
+to Share — to copy, distribute and transmit the work
+to Remix — to adapt the work
+Under the following conditions:
+
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Noncommercial — You may not use this work for commercial purposes.
+Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+With the understanding that:
+
+Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
+Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+Other Rights — In no way are any of the following rights affected by the license:
+Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+The author's moral rights;
+Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
