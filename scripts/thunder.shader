@@ -1,98 +1,98 @@
 textures/thunder/whitelight
 {
-	qer_editorimage		textures/thunder/whitelight.jpg
+	qer_editorimage		textures/thunder/whitelight
 	surfaceparm		nolightmap
 	q3map_surfaceLight	2500
 	{
-		map textures/thunder/whitelight.jpg
+		map textures/thunder/whitelight
 	}
 }
 
 textures/thunder/whitelightns
 {
-	qer_editorimage		textures/thunder/whitelight.jpg
+	qer_editorimage		textures/thunder/whitelight
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	q3map_surfaceLight	3000
 	{
-		map textures/thunder/whitelight.jpg
+		map textures/thunder/whitelight
 	}
 }
 
 textures/thunder/whitelightbright
 {
-	qer_editorimage		textures/thunder/whitelight.jpg
+	qer_editorimage		textures/thunder/whitelight
 	surfaceparm		nolightmap
 	q3map_surfaceLight	10000
 	{
-		map textures/thunder/whitelight.jpg
+		map textures/thunder/whitelight
 	}
 }
 
 textures/thunder/whitelightbrightns
 {
-	qer_editorimage		textures/thunder/whitelight.jpg
+	qer_editorimage		textures/thunder/whitelight
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	q3map_surfaceLight	10000
 	{
-		map textures/thunder/whitelight.jpg
+		map textures/thunder/whitelight
 	}
 }
 
 textures/thunder/whiteshine
 {
-	qer_editorimage		textures/thunder/whitelight.jpg
+	qer_editorimage		textures/thunder/whitelight
 	surfaceparm		nolightmap
 	{
-		map textures/thunder/whitelight.jpg
+		map textures/thunder/whitelight
 	}
 }
 
 textures/thunder/whiteshinens
 {
-	qer_editorimage		textures/thunder/whitelight.jpg
+	qer_editorimage		textures/thunder/whitelight
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	{
-		map textures/thunder/whitelight.jpg
+		map textures/thunder/whitelight
 	}
 }
 
 textures/thunder/black
 {
-	qer_editorimage textures/thunder/black.jpg
+	qer_editorimage textures/thunder/black
 	surfaceparm nolightmap
 	surfaceparm nomarks
 	{
-		map textures/thunder/black.jpg
+		map textures/thunder/black
 	}
 }
 
 textures/thunder/redlight
 {
-	qer_editorimage		textures/thunder/redlight.jpg
+	qer_editorimage		textures/thunder/redlight
 	surfaceparm		nolightmap
 	surfaceparm nonsolid
 	q3map_surfaceLight	7500
 	{
-		map textures/thunder/redlight.jpg
+		map textures/thunder/redlight
 	}
 }
 
 textures/thunder/yellowlight
 {
-	qer_editorimage		textures/thunder/yellowlight.jpg
+	qer_editorimage		textures/thunder/yellowlight
 	surfaceparm		nolightmap
 	q3map_surfaceLight	10000
 	{
-		map textures/thunder/yellowlight.jpg
+		map textures/thunder/yellowlight
 	}
 }
 
 textures/thunder/sky
 {
-	qer_editorimage textures/thunder/stormysky.jpg
+	qer_editorimage textures/thunder/stormysky
 
 	surfaceparm sky
 	surfaceparm noimpact
@@ -107,7 +107,7 @@ textures/thunder/sky
 
 	{
 		fog off
-		map textures/thunder/stormysky.jpg
+		map textures/thunder/stormysky
 		tcmod scroll -0 -0.2
 		tcmod scale 2 2
 		rgbGen identityLighting
@@ -115,7 +115,7 @@ textures/thunder/sky
 
 	{
 		fog off
-		clampmap textures/thunder/stormysky_mask.tga
+		clampmap textures/thunder/stormysky_mask
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		tcMod transform 1 0 0 1 -1 -1
 	}
@@ -123,7 +123,7 @@ textures/thunder/sky
 
 textures/thunder/skybright
 {
-	qer_editorimage textures/thunder/stormyskybright.jpg
+	qer_editorimage textures/thunder/stormyskybright
 
 	surfaceparm sky
 	surfaceparm noimpact
@@ -138,7 +138,7 @@ textures/thunder/skybright
 
 	{
 		fog off
-		map textures/thunder/stormyskybright.jpg
+		map textures/thunder/stormyskybright
 		tcmod scroll -0 -0.2
 		tcmod scale 2 2
 		rgbGen identityLighting
@@ -146,7 +146,7 @@ textures/thunder/skybright
 
 	{
 		fog off
-		clampmap textures/thunder/stormysky_mask.tga
+		clampmap textures/thunder/stormysky_mask
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		tcMod transform 1 0 0 1 -1 -1
 	}
@@ -154,35 +154,34 @@ textures/thunder/skybright
 
 textures/thunder/pk02_rock01
 {
-	qer_editorimage		textures/thunder/pk02_rock01_C.tga
+	qer_editorimage		textures/thunder/pk02_rock01_C
 	q3map_nonplanar
 	q3map_shadeangle 90
-	diffusemap		textures/thunder/pk02_rock01_C.tga
-	bumpmap		 	textures/thunder/pk02_rock01_N.tga
-	specularmap		textures/thunder/pk02_rock01_S.tga
+	diffusemap		textures/thunder/pk02_rock01_C
+	bumpmap		 	textures/thunder/pk02_rock01_N
+	specularmap		textures/thunder/pk02_rock01_S
 }
 
 textures/thunder/pk02_sand01
 {
-    
-	qer_editorimage 	textures/thunder/pk02_sand01_C.tga
+	qer_editorimage 	textures/thunder/pk02_sand01_C
 	q3map_nonplanar
 	q3map_shadeangle 90
-	diffusemap 		textures/thunder/pk02_sand01_C.tga
+	diffusemap 		textures/thunder/pk02_sand01_C
  
-	bumpmap 		textures/thunder/pk02_sand01_N.tga   
-  	specularmap 		textures/thunder/pk02_sand01_S.tga
+	bumpmap 		textures/thunder/pk02_sand01_N
+	specularmap 		textures/thunder/pk02_sand01_S
 }
 
 
 textures/thunder/nexusglass
 {
-	qer_editorimage textures/thunder/nexusglass.jpg
+	qer_editorimage textures/thunder/nexusglass
 	qer_trans .40
 	surfaceparm trans
 	cull none
 	{
-		map textures/thunder/nexusglass.jpg
+		map textures/thunder/nexusglass
 		blendfunc add
 		rgbGen const ( 0.01 0.01 0.01 )
 	}
@@ -196,7 +195,7 @@ textures/thunder/nexusglass
 
 textures/thunder/foghull
 {
-	qer_editorimage textures/thunder/black.jpg
+	qer_editorimage textures/thunder/black
 	surfaceparm nodraw
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -206,13 +205,13 @@ textures/thunder/foghull
 
 textures/thunder/blend
 {
-	qer_editorimage textures/thunder/black.jpg
+	qer_editorimage textures/thunder/black
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
 	surfaceparm nonsolid
 	{
-		map textures/thunder/black.jpg
+		map textures/thunder/black
 		blendfunc add
 	}
 }
@@ -224,7 +223,7 @@ textures/thunder/happydab
 	surfaceparm trans
 	polygonoffset
 	{
-		map textures/thunder/happydab.jpg
+		map textures/thunder/happydab
 		blendfunc filter
 	}
 }
@@ -236,7 +235,7 @@ textures/thunder/alf
 	surfaceparm trans
 	polygonoffset
 	{
-		map textures/thunder/alf.jpg
+		map textures/thunder/alf
 		blendfunc filter
 	}
 }
@@ -245,20 +244,20 @@ textures/thunder/keyboard
 {
 	q3map_surfaceLight	500
 	{
-		map textures/thunder/keyboard.jpg
+		map textures/thunder/keyboard
 		blendfunc add
 	}
 }
 
 textures/thunder/mainscreen
 {
-	qer_editorimage textures/thunder/mainscreen.jpg
+	qer_editorimage textures/thunder/mainscreen
 	q3map_surfaceLight	500
 	{
-		animMap 0.1 textures/thunder/mainscreen.jpg textures/thunder/mainscreen2.jpg
+		animMap 0.1 textures/thunder/mainscreen textures/thunder/mainscreen2
 	}
 	{
-		map textures/thunder/bars.jpg
+		map textures/thunder/bars
 		blendfunc add
 		tcmod scroll -0 0.25
 		tcmod scale 1 0.5
@@ -267,13 +266,13 @@ textures/thunder/mainscreen
 
 textures/thunder/idlescreen
 {
-	qer_editorimage textures/thunder/idlescreen.jpg
+	qer_editorimage textures/thunder/idlescreen
 	q3map_surfaceLight	500
 	{
-		map textures/thunder/idlescreen.jpg
+		map textures/thunder/idlescreen
 	}
 	{
-		map textures/thunder/bars.jpg
+		map textures/thunder/bars
 		blendfunc add
 		tcmod scroll -0 0.3
 		tcmod scale 1 0.25
@@ -282,13 +281,13 @@ textures/thunder/idlescreen
 
 textures/thunder/weatherscreen
 {
-	qer_editorimage textures/thunder/weatherscreen.jpg
+	qer_editorimage textures/thunder/weatherscreen
 	q3map_surfaceLight	500
 	{
-		map textures/thunder/weatherscreen.jpg
+		map textures/thunder/weatherscreen
 	}
 	{
-		map textures/thunder/bars.jpg
+		map textures/thunder/bars
 		blendfunc add
 		tcmod scroll -0 0.4
 		tcmod scale 1 0.25
@@ -297,13 +296,13 @@ textures/thunder/weatherscreen
 
 textures/thunder/screen
 {
-	qer_editorimage textures/thunder/screen.jpg
+	qer_editorimage textures/thunder/screen
 	q3map_surfaceLight	500
 	{
-		map textures/thunder/screen.jpg
+		map textures/thunder/screen
 	}
 	{
-		map textures/thunder/bars.jpg
+		map textures/thunder/bars
 		blendfunc add
 		tcmod scroll -0 0.5
 		tcmod scale 1 0.25
@@ -312,13 +311,13 @@ textures/thunder/screen
 
 textures/thunder/smallscreen
 {
-	qer_editorimage textures/thunder/smallscreen.jpg
+	qer_editorimage textures/thunder/smallscreen
 	q3map_surfaceLight	500
 	{
-		map textures/thunder/smallscreen.jpg
+		map textures/thunder/smallscreen
 	}
 	{
-		map textures/thunder/bars.jpg
+		map textures/thunder/bars
 		blendfunc add
 		tcmod scroll -0 0.4
 		tcmod scale 1 0.25
@@ -327,7 +326,7 @@ textures/thunder/smallscreen
 
 textures/thunder/ladder
 {
-	qer_editorimage textures/common/trigger.jpg
+	qer_editorimage textures/common/trigger
 	qer_trans .40
 	surfaceparm ladder
 	surfaceparm nodraw
@@ -341,19 +340,19 @@ textures/thunder/ladder
 
 textures/thunder/ter_rocksand_xy
 {
-	qer_editorimage textures/common/terrain.tga
+	qer_editorimage textures/common/terrain
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder/pk02_rock01_C.tga
+		map textures/thunder/pk02_rock01_C
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder/pk02_sand01_C_A.tga
+		map textures/thunder/pk02_sand01_C_A
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
@@ -369,19 +368,19 @@ textures/thunder/ter_rocksand_xy
 
 textures/thunder/ter_rocksand_xz
 {
-	qer_editorimage textures/common/terrain.tga
+	qer_editorimage textures/common/terrain
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 0 256 )
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder/pk02_rock01_C.tga
+		map textures/thunder/pk02_rock01_C
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder/pk02_sand01_C_A.tga
+		map textures/thunder/pk02_sand01_C_A
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
@@ -397,19 +396,19 @@ textures/thunder/ter_rocksand_xz
 
 textures/thunder/ter_rocksand_yz
 {
-	qer_editorimage textures/common/terrain.tga
+	qer_editorimage textures/common/terrain
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 0 256 0 ) ( 0 0 256 )
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder/pk02_rock01_C.tga
+		map textures/thunder/pk02_rock01_C
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder/pk02_sand01_C_A.tga
+		map textures/thunder/pk02_sand01_C_A
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
