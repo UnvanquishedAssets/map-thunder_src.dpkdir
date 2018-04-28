@@ -97,7 +97,7 @@ textures/thunder/sky
 	surfaceparm sky
 	surfaceparm noimpact
 	surfaceparm nolightmap
-	skyparms textures/thunder/env/sky 512 -
+	skyparms env/thunder/sky 512 -
 
 	q3map_lightRGB 0.4 0.3 0.3
 	q3map_lightmapFilterRadius 0 4
