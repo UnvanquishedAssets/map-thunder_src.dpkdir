@@ -2,7 +2,7 @@ textures/thunder_eX/eX_clangfloor_01
 {
 	qer_EditorImage		textures/thunder_eX/eX_clangfloor_01_d
 	surfaceparm metalsteps
-	bumpMap			textures/thunder_eX/eX_clangfloor_01_local
+	normalMap		textures/thunder_eX/eX_clangfloor_01_n
 	diffuseMap		textures/thunder_eX/eX_clangfloor_01_d
 	specularMap		textures/thunder_eX/eX_clangfloor_01_s
 }
@@ -13,7 +13,7 @@ textures/thunder_eX/eX_cretebase_02
 	qer_EditorImage		textures/thunder_eX/eX_cretebase_02_d
 	diffuseMap		textures/thunder_eX/eX_cretebase_02_d
 	specularMap		textures/thunder_eX/eX_cretebase_01_s
-	bumpMap			textures/thunder_eX/eX_cretebase_01_local
+	normalMap		textures/thunder_eX/eX_cretebase_01_n
 }
 
 textures/thunder_eX/eX_cretebase_03_dark
@@ -22,7 +22,7 @@ textures/thunder_eX/eX_cretebase_03_dark
 	qer_EditorImage		textures/thunder_eX/eX_cretebase_03_dark_d
 	diffuseMap		textures/thunder_eX/eX_cretebase_03_dark_d
 	specularMap		textures/thunder_eX/eX_cretebase_01_s
-	bumpMap			textures/thunder_eX/eX_cretebase_01_local
+	normalMap		textures/thunder_eX/eX_cretebase_01_n
 }
 
 textures/thunder_eX/eX_cretefloor_01
@@ -31,7 +31,7 @@ textures/thunder_eX/eX_cretefloor_01
 	qer_EditorImage		textures/thunder_eX/eX_cretefloor_01_d
 	diffuseMap		textures/thunder_eX/eX_cretefloor_01_d
 	specularMap		textures/thunder_eX/eX_cretefloor_01_s
-	bumpMap			textures/thunder_eX/eX_cretefloor_01_local
+	normalMap		textures/thunder_eX/eX_cretefloor_01_n
 }
 
 textures/thunder_eX/eX_cretefloor_01b
@@ -40,7 +40,7 @@ textures/thunder_eX/eX_cretefloor_01b
 	qer_EditorImage		textures/thunder_eX/eX_cretefloor_01b_d
 	diffuseMap		textures/thunder_eX/eX_cretefloor_01b_d
 	specularMap		textures/thunder_eX/eX_cretefloor_01b_s
-	bumpMap			textures/thunder_eX/eX_cretefloor_01b_local
+	normalMap		textures/thunder_eX/eX_cretefloor_01b_n
 }
 
 textures/thunder_eX/eX_cretewall_01
@@ -48,7 +48,7 @@ textures/thunder_eX/eX_cretewall_01
 	qer_EditorImage		textures/thunder_eX/eX_cretewall_01_d
 	diffuseMap		textures/thunder_eX/eX_cretewall_01_d
 	specularMap		textures/thunder_eX/eX_cretewall_01_s
-	bumpMap			textures/thunder_eX/eX_cretewall_01_local
+	normalMap		textures/thunder_eX/eX_cretewall_01_n
 }
 
 textures/thunder_eX/eX_cretewall_02
@@ -56,7 +56,7 @@ textures/thunder_eX/eX_cretewall_02
 	qer_EditorImage		textures/thunder_eX/eX_cretewall_02_d
 	diffuseMap		textures/thunder_eX/eX_cretewall_02_d
 	specularMap		textures/thunder_eX/eX_cretewall_02_s
-	bumpMap			textures/thunder_eX/eX_cretewall_02_local
+	normalMap		textures/thunder_eX/eX_cretewall_02_n
 }
 
 textures/thunder_eX/eX_deswall_01
@@ -64,7 +64,7 @@ textures/thunder_eX/eX_deswall_01
 	qer_EditorImage		textures/thunder_eX/eX_deswall_01_d
 	diffuseMap		textures/thunder_eX/eX_deswall_01_d
 	specularMap		textures/thunder_eX/eX_deswall_01_s
-	bumpMap			textures/thunder_eX/eX_deswall_01_local
+	normalMap		textures/thunder_eX/eX_deswall_01_n
 }
 
 textures/thunder_eX/eX_floor_grate_03
@@ -72,7 +72,7 @@ textures/thunder_eX/eX_floor_grate_03
 	qer_EditorImage		textures/thunder_eX/eX_floor_grate_03_d
 	diffuseMap		textures/thunder_eX/eX_floor_grate_03_d
 	specularMap		textures/thunder_eX/eX_floor_grate_03_s
-	bumpMap			textures/thunder_eX/eX_floor_grate_03_local
+	normalMap		textures/thunder_eX/eX_floor_grate_03_n
 }
 
 //Edited by EmperorJack to allow transparency through grate
@@ -100,8 +100,8 @@ textures/thunder_eX/eX_floor_grate03s
 		map			textures/thunder_eX/eX_floor_grate03_s
 	}
 	{
-		blend			bumpMap
-		map			textures/thunder_eX/eX_floor_grate03_local
+		blend			normalMap
+		map			textures/thunder_eX/eX_floor_grate03_n
 	}
 }
 
@@ -111,7 +111,7 @@ textures/thunder_eX/eX_floor_mtl_grate_01_d
 	surfaceparm metalsteps
 	diffuseMap		textures/thunder_eX/eX_floor_mtl_grate_01_d
 	specularMap		textures/thunder_eX/eX_floor_mtl_grate_01_s
-	bumpMap			textures/thunder_eX/eX_floor_mtl_grate_01_local
+	normalMap		textures/thunder_eX/eX_floor_mtl_grate_01_n
 }
 
 textures/thunder_eX/eX_floor_mtl_wrn_01
@@ -119,7 +119,7 @@ textures/thunder_eX/eX_floor_mtl_wrn_01
 	qer_EditorImage		textures/thunder_eX/eX_floor_mtl_wrn_01_d
 	diffuseMap		textures/thunder_eX/eX_floor_mtl_wrn_01_d
 	specularMap		textures/thunder_eX/eX_floor_mtl_wrn_01_s
-	bumpMap			textures/thunder_eX/eX_floor_mtl_wrn_01_local
+	normalMap		textures/thunder_eX/eX_floor_mtl_wrn_01_n
 }
 
 textures/thunder_eX/eX_floor_simplines
@@ -127,7 +127,7 @@ textures/thunder_eX/eX_floor_simplines
 	qer_EditorImage		textures/thunder_eX/eX_floor_simplines_d
 	diffuseMap		textures/thunder_eX/eX_floor_simplines_d
 	specularMap		textures/thunder_eX/eX_floor_simplines_s
-	bumpMap			textures/thunder_eX/eX_floor_simplines_local
+	normalMap		textures/thunder_eX/eX_floor_simplines_n
 }
 
 //Edited by EmperorJack to add a red tinge to simplines_d
@@ -137,7 +137,7 @@ textures/thunder_eX/eX_floor_simplinesr
 	qer_EditorImage		textures/thunder_eX/eX_floor_simplines_dr
 	diffuseMap		textures/thunder_eX/eX_floor_simplines_dr
 	specularMap		textures/thunder_eX/eX_floor_simplines_s
-	bumpMap			textures/thunder_eX/eX_floor_simplines_local
+	normalMap		textures/thunder_eX/eX_floor_simplines_n
 }
 
 textures/thunder_eX/eX_floor_tile_03
@@ -146,7 +146,7 @@ textures/thunder_eX/eX_floor_tile_03
 	surfaceparm metalsteps
 	diffuseMap		textures/thunder_eX/eX_floor_tile_03_d
 	specularMap		textures/thunder_eX/eX_floor_tile_03_s
-	bumpMap			textures/thunder_eX/eX_floor_tile_03_local
+	normalMap		textures/thunder_eX/eX_floor_tile_03_n
 }
 
 textures/thunder_eX/eX_floorpanel_01
@@ -154,7 +154,7 @@ textures/thunder_eX/eX_floorpanel_01
 	qer_EditorImage		textures/thunder_eX/eX_floorpanel_01_d
 	diffuseMap		textures/thunder_eX/eX_floorpanel_01_d
 	specularMap		textures/thunder_eX/eX_floorpanel_01_s
-	bumpMap			textures/thunder_eX/eX_floorpanel_01_local
+	normalMap		textures/thunder_eX/eX_floorpanel_01_n
 }
 
 //Some light shaders made by EmperorJack to emit different colour lights
@@ -163,7 +163,7 @@ textures/thunder_eX/eX_lightpanel_01_white
 {
 	qer_EditorImage		textures/thunder_eX/eX_lightpanel_01_d
 	noShadows
-	bumpMap			textures/thunder_eX/eX_lightpanel_01_local
+	normalMap		textures/thunder_eX/eX_lightpanel_01_n
 	diffuseMap		textures/thunder_eX/eX_lightpanel_01_d
 	specularMap		textures/thunder_eX/eX_lightpanel_01_s
 	q3map_surfaceLight	3000
@@ -181,7 +181,7 @@ textures/thunder_eX/eX_light_u201_white
 {
 	qer_EditorImage		textures/thunder_eX/eX_light_u201_d
 	noShadows
-	bumpMap			textures/thunder_eX/eX_light_u201_local
+	normalMap		textures/thunder_eX/eX_light_u201_n
 	diffuseMap		textures/thunder_eX/eX_light_u201_d
 	specularMap		textures/thunder_eX/eX_light_u201_s
 	q3map_surfaceLight	3000
@@ -199,7 +199,7 @@ textures/thunder_eX/eX_lightpanel_01_yellow
 {
 	qer_EditorImage		textures/thunder_eX/eX_lightpanel_01_d
 	noShadows
-	bumpMap			textures/thunder_eX/eX_lightpanel_01_local
+	normalMap		textures/thunder_eX/eX_lightpanel_01_n
 	diffuseMap		textures/thunder_eX/eX_lightpanel_01_d
 	specularMap		textures/thunder_eX/eX_lightpanel_01_s
 	q3map_surfaceLight	3000
@@ -217,7 +217,7 @@ textures/thunder_eX/eX_light_u201_yellow
 {
 	qer_EditorImage		textures/thunder_eX/eX_light_u201_d
 	noShadows
-	bumpMap			textures/thunder_eX/eX_light_u201_local
+	normalMap		textures/thunder_eX/eX_light_u201_n
 	diffuseMap		textures/thunder_eX/eX_light_u201_d
 	specularMap		textures/thunder_eX/eX_light_u201_s
 	q3map_surfaceLight	3000
@@ -235,7 +235,7 @@ textures/thunder_eX/eX_light_u201_blue
 {
 	qer_EditorImage		textures/thunder_eX/eX_light_u201_d
 	noShadows
-	bumpMap			textures/thunder_eX/eX_light_u201_local
+	normalMap		textures/thunder_eX/eX_light_u201_n
 	diffuseMap		textures/thunder_eX/eX_light_u201_d
 	specularMap		textures/thunder_eX/eX_light_u201_s
 	q3map_surfaceLight	3000
@@ -253,7 +253,7 @@ textures/thunder_eX/eX_lightpanel_01_orange
 {
 	qer_EditorImage		textures/thunder_eX/eX_lightpanel_01_d
 	noShadows
-	bumpMap			textures/thunder_eX/eX_lightpanel_01_local
+	normalMap		textures/thunder_eX/eX_lightpanel_01_n
 	diffuseMap		textures/thunder_eX/eX_lightpanel_01_d
 	specularMap		textures/thunder_eX/eX_lightpanel_01_s
 	q3map_surfaceLight	2500
@@ -271,7 +271,7 @@ textures/thunder_eX/eX_light_u201_orange
 {
 	qer_EditorImage		textures/thunder_eX/eX_light_u201_d
 	noShadows
-	bumpMap			textures/thunder_eX/eX_light_u201_local
+	normalMap		textures/thunder_eX/eX_light_u201_n
 	diffuseMap		textures/thunder_eX/eX_light_u201_d
 	specularMap		textures/thunder_eX/eX_light_u201_s
 	q3map_surfaceLight	2500
@@ -289,7 +289,7 @@ textures/thunder_eX/eX_light_u201_red
 {
 	qer_EditorImage		textures/thunder_eX/eX_light_u201_d
 	noShadows
-	bumpMap			textures/thunder_eX/eX_light_u201_local
+	normalMap		textures/thunder_eX/eX_light_u201_n
 	diffuseMap		textures/thunder_eX/eX_light_u201_d
 	specularMap		textures/thunder_eX/eX_light_u201_s
 	q3map_surfaceLight	2500
@@ -308,7 +308,7 @@ textures/thunder_eX/eX_metalSupp01
 	qer_EditorImage		textures/thunder_eX/eX_metalSupp01_d
 	diffuseMap		textures/thunder_eX/eX_metalSupp01_d
 	specularMap		textures/thunder_eX/eX_metalSupp01_s
-	bumpMap			textures/thunder_eX/eX_metalSupp01_local
+	normalMap		textures/thunder_eX/eX_metalSupp01_n
 }
 
 textures/thunder_eX/eX_mtl_bigplate_04
@@ -316,7 +316,7 @@ textures/thunder_eX/eX_mtl_bigplate_04
 	qer_EditorImage		textures/thunder_eX/eX_mtl_bigplate_04_d
 	diffuseMap		textures/thunder_eX/eX_mtl_bigplate_04_d
 	specularMap		textures/thunder_eX/eX_mtl_bigplate_04_s
-	bumpMap			textures/thunder_eX/eX_mtl_bigplate_04_local
+	normalMap		textures/thunder_eX/eX_mtl_bigplate_04_n
 }
 
 textures/thunder_eX/eX_mtl_bigplate_04b
@@ -324,7 +324,7 @@ textures/thunder_eX/eX_mtl_bigplate_04b
 	qer_EditorImage		textures/thunder_eX/eX_mtl_bigplate_04b_d
 	diffuseMap		textures/thunder_eX/eX_mtl_bigplate_04b_d
 	specularMap		textures/thunder_eX/eX_mtl_bigplate_04b_s
-	bumpMap			textures/thunder_eX/eX_mtl_bigplate_04b_local
+	normalMap		textures/thunder_eX/eX_mtl_bigplate_04b_n
 }
 
 textures/thunder_eX/eX_mtl_panel_02
@@ -332,7 +332,7 @@ textures/thunder_eX/eX_mtl_panel_02
 	qer_EditorImage		textures/thunder_eX/eX_mtl_panel_02_d
 	diffuseMap		textures/thunder_eX/eX_mtl_panel_02_d
 	specularMap		textures/thunder_eX/eX_mtl_panel_02_s
-	bumpMap			textures/thunder_eX/eX_mtl_panel_02_local
+	normalMap		textures/thunder_eX/eX_mtl_panel_02_n
 }
 
 textures/thunder_eX/eX_mtl_panel_03
@@ -340,7 +340,7 @@ textures/thunder_eX/eX_mtl_panel_03
 	qer_EditorImage		textures/thunder_eX/eX_mtl_panel_03_d
 	diffuseMap		textures/thunder_eX/eX_mtl_panel_03_d
 	specularMap		textures/thunder_eX/eX_mtl_panel_03_s
-	bumpMap			textures/thunder_eX/eX_mtl_panel_03_local
+	normalMap		textures/thunder_eX/eX_mtl_panel_03_n
 }
 
 textures/thunder_eX/eX_q2_01b
@@ -348,7 +348,7 @@ textures/thunder_eX/eX_q2_01b
 	qer_EditorImage		textures/thunder_eX/eX_q2_01b_d
 	diffuseMap		textures/thunder_eX/eX_q2_01b_d
 	specularMap		textures/thunder_eX/eX_q2_01b_s
-	bumpMap			textures/thunder_eX/eX_q2_01b_local
+	normalMap		textures/thunder_eX/eX_q2_01b_n
 }
 
 textures/thunder_eX/eX_rndfloor_02
@@ -357,7 +357,7 @@ textures/thunder_eX/eX_rndfloor_02
 	surfaceparm metalsteps
 	diffuseMap		textures/thunder_eX/eX_rndfloor_02_d
 	specularMap		textures/thunder_eX/eX_rndfloor_02_s
-	bumpMap			textures/thunder_eX/eX_rndfloor_02_local
+	normalMap		textures/thunder_eX/eX_rndfloor_02_n
 }
 
 textures/thunder_eX/eX_steptop_01
@@ -366,7 +366,7 @@ textures/thunder_eX/eX_steptop_01
 	surfaceparm metalsteps
 	diffuseMap		textures/thunder_eX/eX_steptop_01_d
 	specularMap		textures/thunder_eX/eX_steptop_01_s
-	bumpMap			textures/thunder_eX/eX_steptop_01_local
+	normalMap		textures/thunder_eX/eX_steptop_01_n
 }
 
 textures/thunder_eX/eX_trim_01
@@ -374,7 +374,7 @@ textures/thunder_eX/eX_trim_01
 	qer_EditorImage		textures/thunder_eX/eX_trim_01_d
 	diffuseMap		textures/thunder_eX/eX_trim_01_d
 	specularMap		textures/thunder_eX/eX_trim_01_s
-	bumpMap			textures/thunder_eX/eX_trim_01_local
+	normalMap		textures/thunder_eX/eX_trim_01_n
 }
 
 textures/thunder_eX/eX_trim_baseboard
@@ -382,7 +382,7 @@ textures/thunder_eX/eX_trim_baseboard
 	qer_EditorImage		textures/thunder_eX/eX_trim_baseboard_d
 	diffuseMap		textures/thunder_eX/eX_trim_baseboard_d
 	specularMap		textures/thunder_eX/eX_trim_baseboard_s
-	bumpMap			textures/thunder_eX/eX_trim_baseboard_local
+	normalMap		textures/thunder_eX/eX_trim_baseboard_n
 }
 
 textures/thunder_eX/eX_trim_baseboard_02
@@ -390,7 +390,7 @@ textures/thunder_eX/eX_trim_baseboard_02
 	qer_EditorImage		textures/thunder_eX/eX_trim_baseboard_02_d
 	diffuseMap		textures/thunder_eX/eX_trim_baseboard_02_d
 	specularMap		textures/thunder_eX/eX_trim_baseboard_02_s
-	bumpMap			textures/thunder_eX/eX_trim_baseboard_02_local
+	normalMap		textures/thunder_eX/eX_trim_baseboard_02_n
 }
 
 textures/thunder_eX/eX_trim_psimple_04
@@ -398,7 +398,7 @@ textures/thunder_eX/eX_trim_psimple_04
 	qer_EditorImage		textures/thunder_eX/eX_trim_psimple_04_d
 	diffuseMap		textures/thunder_eX/eX_trim_psimple_04_d
 	specularMap		textures/thunder_eX/eX_trim_psimple_04_s
-	bumpMap			textures/thunder_eX/eX_trim_psimple_04_local
+	normalMap		textures/thunder_eX/eX_trim_psimple_04_n
 }
 
 textures/thunder_eX/eX_trim_psimple_05
@@ -406,7 +406,7 @@ textures/thunder_eX/eX_trim_psimple_05
 	qer_EditorImage		textures/thunder_eX/eX_trim_psimple_05_d
 	diffuseMap		textures/thunder_eX/eX_trim_psimple_05_d
 	specularMap		textures/thunder_eX/eX_trim_psimple_05_s
-	bumpMap			textures/thunder_eX/eX_trim_psimple_05_local
+	normalMap		textures/thunder_eX/eX_trim_psimple_05_n
 }
 
 textures/thunder_eX/eX_trim_simple03
@@ -414,7 +414,7 @@ textures/thunder_eX/eX_trim_simple03
 	qer_EditorImage		textures/thunder_eX/eX_trim_simple03_d
 	diffuseMap		textures/thunder_eX/eX_trim_simple03_d
 	specularMap		textures/thunder_eX/eX_trim_simple03_s
-	bumpMap			textures/thunder_eX/eX_trim_simple03_local
+	normalMap		textures/thunder_eX/eX_trim_simple03_n
 }
 
 textures/thunder_eX/eX_wall_01
@@ -422,7 +422,7 @@ textures/thunder_eX/eX_wall_01
 	qer_EditorImage		textures/thunder_eX/eX_wall_01_d
 	diffuseMap		textures/thunder_eX/eX_wall_01_d
 	specularMap		textures/thunder_eX/eX_wall_01_s
-	bumpMap			textures/thunder_eX/eX_wall_01_local
+	normalMap		textures/thunder_eX/eX_wall_01_n
 }
 
 textures/thunder_eX/eX_wall_b01
@@ -430,7 +430,7 @@ textures/thunder_eX/eX_wall_b01
 	qer_EditorImage		textures/thunder_eX/eX_wall_b01_d
 	diffuseMap		textures/thunder_eX/eX_wall_b01_d
 	specularMap		textures/thunder_eX/eX_wall_b01_s
-	bumpMap			textures/thunder_eX/eX_wall_b01_local
+	normalMap		textures/thunder_eX/eX_wall_b01_n
 }
 
 textures/thunder_eX/eX_wall_bigrib_02
@@ -438,7 +438,7 @@ textures/thunder_eX/eX_wall_bigrib_02
 	qer_EditorImage		textures/thunder_eX/eX_wall_bigrib_02_d
 	diffuseMap		textures/thunder_eX/eX_wall_bigrib_02_d
 	specularMap		textures/thunder_eX/eX_wall_bigrib_02_s
-	bumpMap			textures/thunder_eX/eX_wall_bigrib_02_local
+	normalMap		textures/thunder_eX/eX_wall_bigrib_02_n
 }
 
 textures/thunder_eX/eX_wall_pipe
@@ -446,7 +446,7 @@ textures/thunder_eX/eX_wall_pipe
 	qer_EditorImage		textures/thunder_eX/eX_wall_pipe_d
 	diffuseMap		textures/thunder_eX/eX_wall_pipe_d
 	specularMap		textures/thunder_eX/eX_wall_pipe_s
-	bumpMap			textures/thunder_eX/eX_wall_pipe_local
+	normalMap		textures/thunder_eX/eX_wall_pipe_n
 }
 
 textures/thunder_eX/eX_wall_u207
@@ -454,7 +454,7 @@ textures/thunder_eX/eX_wall_u207
 	qer_EditorImage		textures/thunder_eX/eX_wall_u207_d
 	diffuseMap		textures/thunder_eX/eX_wall_u207_d
 	specularMap		textures/thunder_eX/eX_wall_u207_s
-	bumpMap			textures/thunder_eX/eX_wall_u207_local
+	normalMap		textures/thunder_eX/eX_wall_u207_n
 }
 
 textures/thunder_eX/eXmetal_plate01
@@ -462,7 +462,7 @@ textures/thunder_eX/eXmetal_plate01
 	qer_EditorImage		textures/thunder_eX/eXmetal_plate01_d
 	diffuseMap		textures/thunder_eX/eXmetal_plate01_d
 	specularMap		textures/thunder_eX/eXmetal_plate01_s
-	bumpMap			textures/thunder_eX/eXmetal_plate01_local
+	normalMap		textures/thunder_eX/eXmetal_plate01_n
 }
 
 textures/thunder_eX/eXmetal_plate01b
@@ -470,7 +470,7 @@ textures/thunder_eX/eXmetal_plate01b
 	qer_EditorImage		textures/thunder_eX/eXmetal_plate01B_d
 	diffuseMap		textures/thunder_eX/eXmetal_plate01B_d
 	specularMap		textures/thunder_eX/eXmetal_plate01B_s
-	bumpMap			textures/thunder_eX/eXmetal_plate01B_local
+	normalMap		textures/thunder_eX/eXmetal_plate01B_n
 }
 
 //Some base shaders edited by EmperorJack to allow different colours
@@ -480,7 +480,7 @@ textures/thunder_eX/eXmetalBase01
 	qer_EditorImage		textures/thunder_eX/eXmetalBase01_d
 	diffuseMap		textures/thunder_eX/eXmetalBase01_d
 	specularMap		textures/thunder_eX/eXmetalBase01_s
-	bumpMap			textures/thunder_eX/eXmetalBase01_local
+	normalMap		textures/thunder_eX/eXmetalBase01_n
 }
 
 textures/thunder_eX/eXmetalBase01ns
@@ -489,7 +489,7 @@ textures/thunder_eX/eXmetalBase01ns
 	surfaceparm 		nonsolid
 	diffuseMap		textures/thunder_eX/eXmetalBase01_d
 	specularMap		textures/thunder_eX/eXmetalBase01_s
-	bumpMap			textures/thunder_eX/eXmetalBase01_local
+	normalMap		textures/thunder_eX/eXmetalBase01_n
 }
 
 textures/thunder_eX/eXmetalBase02
@@ -497,7 +497,7 @@ textures/thunder_eX/eXmetalBase02
 	qer_EditorImage		textures/thunder_eX/eXmetalBase02_d
 	diffuseMap		textures/thunder_eX/eXmetalBase02_d
 	specularMap		textures/thunder_eX/eXmetalBase02_s
-	bumpMap			textures/thunder_eX/eXmetalBase02_local
+	normalMap		textures/thunder_eX/eXmetalBase02_n
 }
 
 textures/thunder_eX/eXmetalBase03
@@ -505,7 +505,7 @@ textures/thunder_eX/eXmetalBase03
 	qer_EditorImage		textures/thunder_eX/eXmetalBase03_d
 	diffuseMap		textures/thunder_eX/eXmetalBase03_d
 	specularMap		textures/thunder_eX/eXmetalBase03_s
-	bumpMap			textures/thunder_eX/eXmetalBase03_local
+	normalMap		textures/thunder_eX/eXmetalBase03_n
 }
 
 textures/thunder_eX/eXmetalBase03ns
@@ -514,7 +514,7 @@ textures/thunder_eX/eXmetalBase03ns
 	surfaceparm 		nonsolid
 	diffuseMap		textures/thunder_eX/eXmetalBase03_d
 	specularMap		textures/thunder_eX/eXmetalBase03_s
-	bumpMap			textures/thunder_eX/eXmetalBase03_local
+	normalMap		textures/thunder_eX/eXmetalBase03_n
 }
 
 textures/thunder_eX/eXmetalBase03y
@@ -522,7 +522,7 @@ textures/thunder_eX/eXmetalBase03y
 	qer_EditorImage		textures/thunder_eX/eXmetalBase03_dy
 	diffuseMap		textures/thunder_eX/eXmetalBase03_dy
 	specularMap		textures/thunder_eX/eXmetalBase03_s
-	bumpMap			textures/thunder_eX/eXmetalBase03_local
+	normalMap		textures/thunder_eX/eXmetalBase03_n
 }
 
 textures/thunder_eX/eXmetalBase03r
@@ -530,7 +530,7 @@ textures/thunder_eX/eXmetalBase03r
 	qer_EditorImage		textures/thunder_eX/eXmetalBase03_dr
 	diffuseMap		textures/thunder_eX/eXmetalBase03_dr
 	specularMap		textures/thunder_eX/eXmetalBase03_s
-	bumpMap			textures/thunder_eX/eXmetalBase03_local
+	normalMap		textures/thunder_eX/eXmetalBase03_n
 }
 
 textures/thunder_eX/eXmetalBase03rns
@@ -539,7 +539,7 @@ textures/thunder_eX/eXmetalBase03rns
 	surfaceparm 		nonsolid
 	diffuseMap		textures/thunder_eX/eXmetalBase03_dr
 	specularMap		textures/thunder_eX/eXmetalBase03_s
-	bumpMap			textures/thunder_eX/eXmetalBase03_local
+	normalMap		textures/thunder_eX/eXmetalBase03_n
 }
 
 textures/thunder_eX/eXmetalBase03b
@@ -547,7 +547,7 @@ textures/thunder_eX/eXmetalBase03b
 	qer_EditorImage		textures/thunder_eX/eXmetalBase03_db
 	diffuseMap		textures/thunder_eX/eXmetalBase03_db
 	specularMap		textures/thunder_eX/eXmetalBase03_s
-	bumpMap			textures/thunder_eX/eXmetalBase03_local
+	normalMap		textures/thunder_eX/eXmetalBase03_n
 }
 
 textures/thunder_eX/eXmetalBase04
@@ -555,7 +555,7 @@ textures/thunder_eX/eXmetalBase04
 	qer_EditorImage		textures/thunder_eX/eXmetalBase04_d
 	diffuseMap		textures/thunder_eX/eXmetalBase04_d
 	specularMap		textures/thunder_eX/eXmetalBase03_s
-	bumpMap			textures/thunder_eX/eXmetalBase03_local
+	normalMap		textures/thunder_eX/eXmetalBase03_n
 }
 
 textures/thunder_eX/eXmetalBase04ns
@@ -564,7 +564,7 @@ textures/thunder_eX/eXmetalBase04ns
 	surfaceparm 		nonsolid
 	diffuseMap		textures/thunder_eX/eXmetalBase04_d
 	specularMap		textures/thunder_eX/eXmetalBase03_s
-	bumpMap			textures/thunder_eX/eXmetalBase03_local
+	normalMap		textures/thunder_eX/eXmetalBase03_n
 }
 
 textures/thunder_eX/eXmetalBase05Rust
@@ -572,7 +572,7 @@ textures/thunder_eX/eXmetalBase05Rust
 	qer_EditorImage		textures/thunder_eX/eXmetalBase05Rust_d
 	diffuseMap		textures/thunder_eX/eXmetalBase05Rust_d
 	specularMap		textures/thunder_eX/eXmetalBase05Rust_s
-	bumpMap			textures/thunder_eX/eXmetalBase05Rust_local
+	normalMap		textures/thunder_eX/eXmetalBase05Rust_n
 }
 
 textures/thunder_eX/eXmetalBase07Rust
@@ -580,7 +580,7 @@ textures/thunder_eX/eXmetalBase07Rust
 	qer_EditorImage		textures/thunder_eX/eXmetalBase07Rust_d
 	diffuseMap		textures/thunder_eX/eXmetalBase07Rust_d
 	specularMap		textures/thunder_eX/eXmetalBase05Rust_s
-	bumpMap			textures/thunder_eX/eXmetalBase05Rust_local
+	normalMap		textures/thunder_eX/eXmetalBase05Rust_n
 }
 
 textures/thunder_eX/eXmetalFloor02
@@ -588,7 +588,7 @@ textures/thunder_eX/eXmetalFloor02
 	qer_EditorImage		textures/thunder_eX/eXmetalFloor02_d
 	diffuseMap		textures/thunder_eX/eXmetalFloor02_d
 	specularMap		textures/thunder_eX/eXmetalFloor02_s
-	bumpMap			textures/thunder_eX/eXmetalFloor02_local
+	normalMap		textures/thunder_eX/eXmetalFloor02_n
 }
 
 textures/thunder_eX/eXmetalrib01
@@ -596,5 +596,5 @@ textures/thunder_eX/eXmetalrib01
 	qer_EditorImage		textures/thunder_eX/eXmetalrib01_d
 	diffuseMap		textures/thunder_eX/eXmetalrib01_d
 	specularMap		textures/thunder_eX/eXmetalrib01_s
-	bumpMap			textures/thunder_eX/eXmetalrib01_local
+	normalMap		textures/thunder_eX/eXmetalrib01_n
 }
