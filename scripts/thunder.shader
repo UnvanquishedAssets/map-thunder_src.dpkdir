@@ -154,23 +154,22 @@ textures/thunder/skybright
 
 textures/thunder/pk02_rock01
 {
-	qer_editorimage		textures/thunder/pk02_rock01_d
+	qer_editorimage textures/thunder/pk02_rock01_d
 	q3map_nonplanar
 	q3map_shadeangle 90
-	diffusemap		textures/thunder/pk02_rock01_d
-	bumpmap		 	textures/thunder/pk02_rock01_n
-	specularmap		textures/thunder/pk02_rock01_s
+	diffuseMap      textures/thunder/pk02_rock01_d
+	normalMap       textures/thunder/pk02_rock01_n
+	specularMap     textures/thunder/pk02_rock01_s
 }
 
 textures/thunder/pk02_sand01
 {
-	qer_editorimage 	textures/thunder/pk02_sand01_d
+	qer_editorimage textures/thunder/pk02_sand01_d
 	q3map_nonplanar
 	q3map_shadeangle 90
-	diffusemap 		textures/thunder/pk02_sand01_d
- 
-	bumpmap 		textures/thunder/pk02_sand01_n
-	specularmap 		textures/thunder/pk02_sand01_s
+	diffuseMap      textures/thunder/pk02_sand01_d
+	normalMap       textures/thunder/pk02_sand01_n
+	specularMap     textures/thunder/pk02_sand01_s
 }
 
 
