@@ -1,3 +1,21 @@
+textures/thunder_custom/greytexture
+{
+	qer_editorimage textures/thunder_custom_src/greytexture
+	diffuseMap textures/thunder_custom_src/greytexture
+}
+
+textures/thunder_custom/map
+{
+	qer_editorimage textures/thunder_custom_src/map
+	diffuseMap textures/thunder_custom_src/map
+}
+
+textures/thunder_custom/danger
+{
+	qer_editorimage textures/thunder_custom_src/danger
+	diffuseMap textures/thunder_custom_src/danger
+}
+
 textures/thunder_custom/whitelight
 {
 	qer_editorimage		textures/thunder_custom_src/whitelight
