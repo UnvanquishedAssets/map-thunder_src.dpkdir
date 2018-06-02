@@ -160,27 +160,6 @@ textures/thunder_custom/skybright
 	}
 }
 
-textures/thunder_custom/pk02_rock01
-{
-	qer_editorimage textures/thunder_custom_src/pk02_rock01_d
-	q3map_nonplanar
-	q3map_shadeangle 90
-	diffuseMap      textures/thunder_custom_src/pk02_rock01_d
-	normalMap       textures/thunder_custom_src/pk02_rock01_n
-	specularMap     textures/thunder_custom_src/pk02_rock01_s
-}
-
-textures/thunder_custom/pk02_sand01
-{
-	qer_editorimage textures/thunder_custom_src/pk02_sand01_d
-	q3map_nonplanar
-	q3map_shadeangle 90
-	diffuseMap      textures/thunder_custom_src/pk02_sand01_d
-	normalMap       textures/thunder_custom_src/pk02_sand01_n
-	specularMap     textures/thunder_custom_src/pk02_sand01_s
-}
-
-
 textures/thunder_custom/nexusglass
 {
 	qer_editorimage textures/thunder_custom_src/nexusglass
@@ -354,12 +333,12 @@ textures/thunder_custom/ter_rocksand_xy
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder_custom_src/pk02_rock01_d
+		map textures/shared_pk02_src/rock01_d
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder_custom_src/pk02_sand01_d
+		map textures/shared_pk02_src/sand01_d
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
@@ -382,12 +361,12 @@ textures/thunder_custom/ter_rocksand_xz
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder_custom_src/pk02_rock01_d
+		map textures/shared_pk02_src/rock01_d
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder_custom_src/pk02_sand01_d
+		map textures/shared_pk02_src/sand01_d
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
@@ -410,12 +389,12 @@ textures/thunder_custom/ter_rocksand_yz
 	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
 
 	{
-		map textures/thunder_custom_src/pk02_rock01_d
+		map textures/shared_pk02_src/rock01_d
 		rgbGen identity
 	}
 
 	{
-		map textures/thunder_custom_src/pk02_sand01_d
+		map textures/shared_pk02_src/sand01_d
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		alphaFunc GE128
 		rgbGen identity
