@@ -1,6 +1,6 @@
 textures/thunder_ex/eX_floor_grate_03
 {
-	qer_editorimage		textures/thunder_ex_src/eX_floor_grate_03_d
+	qer_editorImage		textures/thunder_ex_src/eX_floor_grate_03_d
 	diffuseMap		textures/thunder_ex_src/eX_floor_grate_03_d
 	specularMap		textures/thunder_ex_src/eX_floor_grate_03_s
 	normalMap		textures/thunder_ex_src/eX_floor_grate_03_n
@@ -10,8 +10,8 @@ textures/thunder_ex/eX_floor_grate_03
 
 textures/thunder_ex/eX_floor_grate03s
 {
-	qer_editorimage		textures/thunder_ex_src/eX_floor_grate03_d
-	qer_alphafunc gequal 0.5
+	qer_editorImage		textures/thunder_ex_src/eX_floor_grate03_d
+	qer_alphaFunc gequal 0.5
 	surfaceparm alphashadow
 	surfaceparm trans
 	surfaceparm nomarks
@@ -40,7 +40,7 @@ textures/thunder_ex/eX_floor_grate03s
 
 textures/thunder_ex/eX_floor_simplinesr
 {
-	qer_editorimage		textures/thunder_ex_src/eX_floor_simplinesr_d
+	qer_editorImage		textures/thunder_ex_src/eX_floor_simplinesr_d
 	diffuseMap		textures/thunder_ex_src/eX_floor_simplinesr_d
 	specularMap		textures/shared_ex_src/base2_s
 	normalMap		textures/shared_ex_src/base2_n
@@ -48,7 +48,7 @@ textures/thunder_ex/eX_floor_simplinesr
 
 textures/thunder_ex/floor_panel1
 {
-	qer_editorimage		textures/shared_ex_src/floor_panel1_d
+	qer_editorImage		textures/shared_ex_src/floor_panel1_d
 	diffuseMap		textures/shared_ex_src/floor_panel1_d
 	specularMap		textures/shared_ex_src/floor_panel1_s
 	normalMap		textures/shared_ex_src/floor_panel1_n
@@ -58,7 +58,7 @@ textures/thunder_ex/floor_panel1
 
 textures/thunder_ex/eX_lightpanel_01_white
 {
-	qer_editorimage		textures/shared_ex_src/light1_d
+	qer_editorImage		textures/shared_ex_src/light1_d
 	noShadows
 	normalMap		textures/shared_ex_src/light1_n
 	diffuseMap		textures/shared_ex_src/light1_d
@@ -76,7 +76,7 @@ textures/thunder_ex/eX_lightpanel_01_white
 
 textures/thunder_ex/eX_light_u201_white
 {
-	qer_editorimage		textures/shared_ex_src/light2_d
+	qer_editorImage		textures/shared_ex_src/light2_d
 	noShadows
 	normalMap		textures/shared_ex_src/light2_n
 	diffuseMap		textures/shared_ex_src/light2_d
@@ -94,7 +94,7 @@ textures/thunder_ex/eX_light_u201_white
 
 textures/thunder_ex/eX_lightpanel_01_yellow
 {
-	qer_editorimage		textures/shared_ex_src/light1_d
+	qer_editorImage		textures/shared_ex_src/light1_d
 	noShadows
 	normalMap		textures/shared_ex_src/light1_n
 	diffuseMap		textures/shared_ex_src/light1_d
@@ -112,7 +112,7 @@ textures/thunder_ex/eX_lightpanel_01_yellow
 
 textures/thunder_ex/eX_light_u201_yellow
 {
-	qer_editorimage		textures/shared_ex_src/light2_d
+	qer_editorImage		textures/shared_ex_src/light2_d
 	noShadows
 	normalMap		textures/shared_ex_src/light2_n
 	diffuseMap		textures/shared_ex_src/light2_d
@@ -130,7 +130,7 @@ textures/thunder_ex/eX_light_u201_yellow
 
 textures/thunder_ex/eX_light_u201_blue
 {
-	qer_editorimage		textures/shared_ex_src/light2_d
+	qer_editorImage		textures/shared_ex_src/light2_d
 	noShadows
 	normalMap		textures/shared_ex_src/light2_n
 	diffuseMap		textures/shared_ex_src/light2_d
@@ -148,7 +148,7 @@ textures/thunder_ex/eX_light_u201_blue
 
 textures/thunder_ex/eX_lightpanel_01_orange
 {
-	qer_editorimage		textures/shared_ex_src/light1_d
+	qer_editorImage		textures/shared_ex_src/light1_d
 	noShadows
 	normalMap		textures/shared_ex_src/light1_n
 	diffuseMap		textures/shared_ex_src/light1_d
@@ -166,7 +166,7 @@ textures/thunder_ex/eX_lightpanel_01_orange
 
 textures/thunder_ex/eX_light_u201_orange
 {
-	qer_editorimage		textures/shared_ex_src/light2_d
+	qer_editorImage		textures/shared_ex_src/light2_d
 	noShadows
 	normalMap		textures/shared_ex_src/light2_n
 	diffuseMap		textures/shared_ex_src/light2_d
@@ -184,7 +184,7 @@ textures/thunder_ex/eX_light_u201_orange
 
 textures/thunder_ex/eX_light_u201_red
 {
-	qer_editorimage		textures/shared_ex_src/light2_d
+	qer_editorImage		textures/shared_ex_src/light2_d
 	noShadows
 	normalMap		textures/shared_ex_src/light2_n
 	diffuseMap		textures/shared_ex_src/light2_d
@@ -202,7 +202,7 @@ textures/thunder_ex/eX_light_u201_red
 
 textures/thunder_ex/eXmetal_plate01
 {
-	qer_editorimage		textures/thunder_ex_src/eXmetal_plate01_d
+	qer_editorImage		textures/thunder_ex_src/eXmetal_plate01_d
 	diffuseMap		textures/thunder_ex_src/eXmetal_plate01_d
 	specularMap		textures/thunder_ex_src/eXmetal_plate01_s
 	normalMap		textures/thunder_ex_src/eXmetal_plate01_n
@@ -212,7 +212,7 @@ textures/thunder_ex/eXmetal_plate01
 
 textures/thunder_ex/eXmetalBase01ns
 {
-	qer_editorimage		textures/shared_ex_src/base1a_d
+	qer_editorImage		textures/shared_ex_src/base1a_d
 	surfaceparm 		nonsolid
 	diffuseMap		textures/shared_ex_src/base1a_d
 	specularMap		textures/shared_ex_src/base1_s
@@ -221,7 +221,7 @@ textures/thunder_ex/eXmetalBase01ns
 
 textures/thunder_ex/eXmetalBase03ns
 {
-	qer_editorimage		textures/shared_ex_src/base1d_d
+	qer_editorImage		textures/shared_ex_src/base1d_d
 	surfaceparm 		nonsolid
 	diffuseMap		textures/shared_ex_src/base1d_d
 	specularMap		textures/shared_ex_src/base1_s
@@ -230,7 +230,7 @@ textures/thunder_ex/eXmetalBase03ns
 
 textures/thunder_ex/eXmetalBase03y
 {
-	qer_editorimage		textures/thunder_ex_src/eXmetalBase03y_d
+	qer_editorImage		textures/thunder_ex_src/eXmetalBase03y_d
 	diffuseMap		textures/thunder_ex_src/eXmetalBase03y_d
 	specularMap		textures/shared_ex_src/base1_s
 	normalMap		textures/shared_ex_src/base1_n
@@ -238,7 +238,7 @@ textures/thunder_ex/eXmetalBase03y
 
 textures/thunder_ex/eXmetalBase03r
 {
-	qer_editorimage		textures/thunder_ex_src/eXmetalBase03r_d
+	qer_editorImage		textures/thunder_ex_src/eXmetalBase03r_d
 	diffuseMap		textures/thunder_ex_src/eXmetalBase03r_d
 	specularMap		textures/shared_ex_src/base1_s
 	normalMap		textures/shared_ex_src/base1_n
@@ -246,7 +246,7 @@ textures/thunder_ex/eXmetalBase03r
 
 textures/thunder_ex/eXmetalBase03rns
 {
-	qer_editorimage		textures/thunder_ex_src/eXmetalBase03r_d
+	qer_editorImage		textures/thunder_ex_src/eXmetalBase03r_d
 	surfaceparm 		nonsolid
 	diffuseMap		textures/thunder_ex_src/eXmetalBase03r_d
 	specularMap		textures/shared_ex_src/base1_s
@@ -255,7 +255,7 @@ textures/thunder_ex/eXmetalBase03rns
 
 textures/thunder_ex/eXmetalBase03b
 {
-	qer_editorimage		textures/thunder_ex_src/eXmetalBase03b_d
+	qer_editorImage		textures/thunder_ex_src/eXmetalBase03b_d
 	diffuseMap		textures/thunder_ex_src/eXmetalBase03b_d
 	specularMap		textures/shared_ex_src/base1_s
 	normalMap		textures/shared_ex_src/base1_n
@@ -263,7 +263,7 @@ textures/thunder_ex/eXmetalBase03b
 
 textures/thunder_ex/eXmetalBase04ns
 {
-	qer_editorimage		textures/shared_ex_src/base1b_d
+	qer_editorImage		textures/shared_ex_src/base1b_d
 	surfaceparm 		nonsolid
 	diffuseMap		textures/shared_ex_src/base1b_d
 	specularMap		textures/shared_ex_src/base1_s

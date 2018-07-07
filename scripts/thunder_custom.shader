@@ -1,24 +1,24 @@
 textures/thunder_custom/greytexture
 {
-	qer_editorimage textures/thunder_custom_src/greytexture
+	qer_editorImage textures/thunder_custom_src/greytexture
 	diffuseMap textures/thunder_custom_src/greytexture
 }
 
 textures/thunder_custom/map
 {
-	qer_editorimage textures/thunder_custom_src/map
+	qer_editorImage textures/thunder_custom_src/map
 	diffuseMap textures/thunder_custom_src/map
 }
 
 textures/thunder_custom/danger
 {
-	qer_editorimage textures/thunder_custom_src/danger
+	qer_editorImage textures/thunder_custom_src/danger
 	diffuseMap textures/thunder_custom_src/danger
 }
 
 textures/thunder_custom/whitelight
 {
-	qer_editorimage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight
 	surfaceparm		nolightmap
 	q3map_surfaceLight	2500
 	{
@@ -28,7 +28,7 @@ textures/thunder_custom/whitelight
 
 textures/thunder_custom/whitelightns
 {
-	qer_editorimage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	q3map_surfaceLight	3000
@@ -39,7 +39,7 @@ textures/thunder_custom/whitelightns
 
 textures/thunder_custom/whitelightbright
 {
-	qer_editorimage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight
 	surfaceparm		nolightmap
 	q3map_surfaceLight	10000
 	{
@@ -49,7 +49,7 @@ textures/thunder_custom/whitelightbright
 
 textures/thunder_custom/whitelightbrightns
 {
-	qer_editorimage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	q3map_surfaceLight	10000
@@ -60,7 +60,7 @@ textures/thunder_custom/whitelightbrightns
 
 textures/thunder_custom/whiteshine
 {
-	qer_editorimage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight
 	surfaceparm		nolightmap
 	{
 		map textures/thunder_custom_src/whitelight
@@ -69,7 +69,7 @@ textures/thunder_custom/whiteshine
 
 textures/thunder_custom/whiteshinens
 {
-	qer_editorimage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	{
@@ -79,7 +79,7 @@ textures/thunder_custom/whiteshinens
 
 textures/thunder_custom/redlight
 {
-	qer_editorimage		textures/thunder_custom_src/redlight
+	qer_editorImage		textures/thunder_custom_src/redlight
 	surfaceparm		nolightmap
 	surfaceparm nonsolid
 	q3map_surfaceLight	7500
@@ -90,7 +90,7 @@ textures/thunder_custom/redlight
 
 textures/thunder_custom/yellowlight
 {
-	qer_editorimage		textures/thunder_custom_src/yellowlight
+	qer_editorImage		textures/thunder_custom_src/yellowlight
 	surfaceparm		nolightmap
 	q3map_surfaceLight	10000
 	{
@@ -100,7 +100,7 @@ textures/thunder_custom/yellowlight
 
 textures/thunder_custom/sky
 {
-	qer_editorimage textures/thunder_custom_src/stormysky
+	qer_editorImage textures/thunder_custom_src/stormysky
 
 	surfaceparm sky
 	surfaceparm noimpact
@@ -131,7 +131,7 @@ textures/thunder_custom/sky
 
 textures/thunder_custom/skybright
 {
-	qer_editorimage textures/thunder_custom_src/stormyskybright
+	qer_editorImage textures/thunder_custom_src/stormyskybright
 
 	surfaceparm sky
 	surfaceparm noimpact
@@ -162,7 +162,7 @@ textures/thunder_custom/skybright
 
 textures/thunder_custom/nexusglass
 {
-	qer_editorimage textures/thunder_custom_src/nexusglass
+	qer_editorImage textures/thunder_custom_src/nexusglass
 	qer_trans .40
 	surfaceparm trans
 	cull none
@@ -181,7 +181,7 @@ textures/thunder_custom/nexusglass
 
 textures/thunder_custom/foghull
 {
-	qer_editorimage textures/common_src/black_d
+	qer_editorImage textures/common_src/black_d
 	surfaceparm nodraw
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -191,7 +191,7 @@ textures/thunder_custom/foghull
 
 textures/thunder_custom/blend
 {
-	qer_editorimage textures/common_src/black_d
+	qer_editorImage textures/common_src/black_d
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -237,7 +237,7 @@ textures/thunder_custom/keyboard
 
 textures/thunder_custom/mainscreen
 {
-	qer_editorimage textures/thunder_custom_src/mainscreen
+	qer_editorImage textures/thunder_custom_src/mainscreen
 	q3map_surfaceLight	500
 	{
 		animMap 0.1 textures/thunder_custom_src/mainscreen textures/thunder_custom_src/mainscreen2
@@ -252,7 +252,7 @@ textures/thunder_custom/mainscreen
 
 textures/thunder_custom/idlescreen
 {
-	qer_editorimage textures/thunder_custom_src/idlescreen
+	qer_editorImage textures/thunder_custom_src/idlescreen
 	q3map_surfaceLight	500
 	{
 		map textures/thunder_custom_src/idlescreen
@@ -267,7 +267,7 @@ textures/thunder_custom/idlescreen
 
 textures/thunder_custom/weatherscreen
 {
-	qer_editorimage textures/thunder_custom_src/weatherscreen
+	qer_editorImage textures/thunder_custom_src/weatherscreen
 	q3map_surfaceLight	500
 	{
 		map textures/thunder_custom_src/weatherscreen
@@ -282,7 +282,7 @@ textures/thunder_custom/weatherscreen
 
 textures/thunder_custom/screen
 {
-	qer_editorimage textures/thunder_custom_src/screen
+	qer_editorImage textures/thunder_custom_src/screen
 	q3map_surfaceLight	500
 	{
 		map textures/thunder_custom_src/screen
@@ -297,7 +297,7 @@ textures/thunder_custom/screen
 
 textures/thunder_custom/smallscreen
 {
-	qer_editorimage textures/thunder_custom_src/smallscreen
+	qer_editorImage textures/thunder_custom_src/smallscreen
 	q3map_surfaceLight	500
 	{
 		map textures/thunder_custom_src/smallscreen
@@ -312,7 +312,7 @@ textures/thunder_custom/smallscreen
 
 textures/thunder_custom/ladder
 {
-	qer_editorimage textures/common/trigger
+	qer_editorImage textures/common/trigger
 	qer_trans .40
 	surfaceparm ladder
 	surfaceparm nodraw
@@ -326,7 +326,7 @@ textures/thunder_custom/ladder
 
 textures/thunder_custom/ter_rocksand_xy
 {
-	qer_editorimage textures/thunder_custom_src/ter_rocksand_p
+	qer_editorImage textures/thunder_custom_src/ter_rocksand_p
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )
@@ -354,7 +354,7 @@ textures/thunder_custom/ter_rocksand_xy
 
 textures/thunder_custom/ter_rocksand_xz
 {
-	qer_editorimage textures/thunder_custom_src/ter_rocksand_p
+	qer_editorImage textures/thunder_custom_src/ter_rocksand_p
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 0 256 )
@@ -382,7 +382,7 @@ textures/thunder_custom/ter_rocksand_xz
 
 textures/thunder_custom/ter_rocksand_yz
 {
-	qer_editorimage textures/thunder_custom_src/ter_rocksand_p
+	qer_editorImage textures/thunder_custom_src/ter_rocksand_p
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 0 256 0 ) ( 0 0 256 )

@@ -1,6 +1,6 @@
 textures/thunder_lightning/generatorlightning
 {
-	qer_editorimage textures/thunder_lightning_src/generatorlightning
+	qer_editorImage textures/thunder_lightning_src/generatorlightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -14,7 +14,7 @@ textures/thunder_lightning/generatorlightning
 
 textures/thunder_lightning/horizontallightning
 {
-	qer_editorimage textures/thunder_lightning_src/horizontallightning
+	qer_editorImage textures/thunder_lightning_src/horizontallightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -28,7 +28,7 @@ textures/thunder_lightning/horizontallightning
 
 textures/thunder_lightning/lightning1
 {
-	qer_editorimage textures/thunder_lightning_src/lightning
+	qer_editorImage textures/thunder_lightning_src/lightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -42,7 +42,7 @@ textures/thunder_lightning/lightning1
 
 textures/thunder_lightning/lightning2
 {
-	qer_editorimage textures/thunder_lightning_src/lightning
+	qer_editorImage textures/thunder_lightning_src/lightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -56,7 +56,7 @@ textures/thunder_lightning/lightning2
 
 textures/thunder_lightning/lightning3
 {
-	qer_editorimage textures/thunder_lightning_src/lightning
+	qer_editorImage textures/thunder_lightning_src/lightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -70,7 +70,7 @@ textures/thunder_lightning/lightning3
 
 textures/thunder_lightning/lightning4
 {
-	qer_editorimage textures/thunder_lightning_src/lightning
+	qer_editorImage textures/thunder_lightning_src/lightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -84,7 +84,7 @@ textures/thunder_lightning/lightning4
 
 textures/thunder_lightning/lightning5
 {
-	qer_editorimage textures/thunder_lightning_src/lightning
+	qer_editorImage textures/thunder_lightning_src/lightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -98,7 +98,7 @@ textures/thunder_lightning/lightning5
 
 textures/thunder_lightning/slowzap1
 {
-	qer_editorimage textures/thunder_lightning_src/horizontallightning
+	qer_editorImage textures/thunder_lightning_src/horizontallightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
@@ -112,7 +112,7 @@ textures/thunder_lightning/slowzap1
 
 textures/thunder_lightning/slowzap2
 {
-	qer_editorimage textures/thunder_lightning_src/horizontallightning
+	qer_editorImage textures/thunder_lightning_src/horizontallightning
 	surfaceparm trans
 	surfaceparm nolightmap
 	surfaceparm nomarks
