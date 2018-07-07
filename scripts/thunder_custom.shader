@@ -1,100 +1,100 @@
 textures/thunder_custom/greytexture
 {
-	qer_editorImage textures/thunder_custom_src/greytexture
-	diffuseMap textures/thunder_custom_src/greytexture
+	qer_editorImage textures/thunder_custom_src/greytexture_d
+	diffuseMap textures/thunder_custom_src/greytexture_d
 }
 
 textures/thunder_custom/map
 {
-	qer_editorImage textures/thunder_custom_src/map
-	diffuseMap textures/thunder_custom_src/map
+	qer_editorImage textures/thunder_custom_src/map_d
+	diffuseMap textures/thunder_custom_src/map_d
 }
 
 textures/thunder_custom/danger
 {
-	qer_editorImage textures/thunder_custom_src/danger
-	diffuseMap textures/thunder_custom_src/danger
+	qer_editorImage textures/thunder_custom_src/danger_d
+	diffuseMap textures/thunder_custom_src/danger_d
 }
 
 textures/thunder_custom/whitelight
 {
-	qer_editorImage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight_d
 	surfaceparm		nolightmap
 	q3map_surfaceLight	2500
 	{
-		map textures/thunder_custom_src/whitelight
+		map textures/thunder_custom_src/whitelight_d
 	}
 }
 
-textures/thunder_custom/whitelightns
+textures/thunder_custom/whitelight_nonsolid
 {
-	qer_editorImage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight_d
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	q3map_surfaceLight	3000
 	{
-		map textures/thunder_custom_src/whitelight
+		map textures/thunder_custom_src/whitelight_d
 	}
 }
 
 textures/thunder_custom/whitelightbright
 {
-	qer_editorImage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight_d
 	surfaceparm		nolightmap
 	q3map_surfaceLight	10000
 	{
-		map textures/thunder_custom_src/whitelight
+		map textures/thunder_custom_src/whitelight_d
 	}
 }
 
-textures/thunder_custom/whitelightbrightns
+textures/thunder_custom/whitelightbright_nonsolid
 {
-	qer_editorImage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight_d
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	q3map_surfaceLight	10000
 	{
-		map textures/thunder_custom_src/whitelight
+		map textures/thunder_custom_src/whitelight_d
 	}
 }
 
 textures/thunder_custom/whiteshine
 {
-	qer_editorImage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight_d
 	surfaceparm		nolightmap
 	{
-		map textures/thunder_custom_src/whitelight
+		map textures/thunder_custom_src/whitelight_d
 	}
 }
 
-textures/thunder_custom/whiteshinens
+textures/thunder_custom/whiteshine_nonsolid
 {
-	qer_editorImage		textures/thunder_custom_src/whitelight
+	qer_editorImage		textures/thunder_custom_src/whitelight_d
 	surfaceparm		nolightmap
 	surfaceparm 		nonsolid
 	{
-		map textures/thunder_custom_src/whitelight
+		map textures/thunder_custom_src/whitelight_d
 	}
 }
 
 textures/thunder_custom/redlight
 {
-	qer_editorImage		textures/thunder_custom_src/redlight
+	qer_editorImage		textures/thunder_custom_src/redlight_d
 	surfaceparm		nolightmap
 	surfaceparm nonsolid
 	q3map_surfaceLight	7500
 	{
-		map textures/thunder_custom_src/redlight
+		map textures/thunder_custom_src/redlight_d
 	}
 }
 
 textures/thunder_custom/yellowlight
 {
-	qer_editorImage		textures/thunder_custom_src/yellowlight
+	qer_editorImage		textures/thunder_custom_src/yellowlight_d
 	surfaceparm		nolightmap
 	q3map_surfaceLight	10000
 	{
-		map textures/thunder_custom_src/yellowlight
+		map textures/thunder_custom_src/yellowlight_d
 	}
 }
 
@@ -162,12 +162,12 @@ textures/thunder_custom/skybright
 
 textures/thunder_custom/nexusglass
 {
-	qer_editorImage textures/thunder_custom_src/nexusglass
+	qer_editorImage textures/thunder_custom_src/nexusglass_d
 	qer_trans .40
 	surfaceparm trans
 	cull none
 	{
-		map textures/thunder_custom_src/nexusglass
+		map textures/thunder_custom_src/nexusglass_d
 		blendfunc add
 		rgbGen const ( 0.01 0.01 0.01 )
 	}
@@ -204,46 +204,49 @@ textures/thunder_custom/blend
 
 textures/thunder_custom/happydab
 {
+	qer_editorImage textures/thunder_custom_src/happydab_d
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
 	polygonoffset
 	{
-		map textures/thunder_custom_src/happydab
+		map textures/thunder_custom_src/happydab_d
 		blendfunc filter
 	}
 }
 
 textures/thunder_custom/alf
 {
+	qer_editorImage textures/thunder_custom_src/alf_d
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
 	polygonoffset
 	{
-		map textures/thunder_custom_src/alf
+		map textures/thunder_custom_src/alf_d
 		blendfunc filter
 	}
 }
 
 textures/thunder_custom/keyboard
 {
+	qer_editorImage textures/thunder_custom_src/keyboard_d
 	q3map_surfaceLight	500
 	{
-		map textures/thunder_custom_src/keyboard
+		map textures/thunder_custom_src/keyboard_d
 		blendfunc add
 	}
 }
 
 textures/thunder_custom/mainscreen
 {
-	qer_editorImage textures/thunder_custom_src/mainscreen
+	qer_editorImage textures/thunder_custom_src/mainscreen_d
 	q3map_surfaceLight	500
 	{
-		animMap 0.1 textures/thunder_custom_src/mainscreen textures/thunder_custom_src/mainscreen2
+		animMap 0.1 textures/thunder_custom_src/mainscreen_d textures/thunder_custom_src/mainscreen2_d
 	}
 	{
-		map textures/thunder_custom_src/bars
+		map textures/thunder_custom_src/bars_a
 		blendfunc add
 		tcmod scroll -0 0.25
 		tcmod scale 1 0.5
@@ -252,13 +255,13 @@ textures/thunder_custom/mainscreen
 
 textures/thunder_custom/idlescreen
 {
-	qer_editorImage textures/thunder_custom_src/idlescreen
+	qer_editorImage textures/thunder_custom_src/idlescreen_d
 	q3map_surfaceLight	500
 	{
-		map textures/thunder_custom_src/idlescreen
+		map textures/thunder_custom_src/idlescreen_d
 	}
 	{
-		map textures/thunder_custom_src/bars
+		map textures/thunder_custom_src/bars_a
 		blendfunc add
 		tcmod scroll -0 0.3
 		tcmod scale 1 0.25
@@ -267,13 +270,13 @@ textures/thunder_custom/idlescreen
 
 textures/thunder_custom/weatherscreen
 {
-	qer_editorImage textures/thunder_custom_src/weatherscreen
+	qer_editorImage textures/thunder_custom_src/weatherscreen_d
 	q3map_surfaceLight	500
 	{
-		map textures/thunder_custom_src/weatherscreen
+		map textures/thunder_custom_src/weatherscreen_d
 	}
 	{
-		map textures/thunder_custom_src/bars
+		map textures/thunder_custom_src/bars_a
 		blendfunc add
 		tcmod scroll -0 0.4
 		tcmod scale 1 0.25
@@ -282,13 +285,13 @@ textures/thunder_custom/weatherscreen
 
 textures/thunder_custom/screen
 {
-	qer_editorImage textures/thunder_custom_src/screen
+	qer_editorImage textures/thunder_custom_src/screen_d
 	q3map_surfaceLight	500
 	{
-		map textures/thunder_custom_src/screen
+		map textures/thunder_custom_src/screen_d
 	}
 	{
-		map textures/thunder_custom_src/bars
+		map textures/thunder_custom_src/bars_a
 		blendfunc add
 		tcmod scroll -0 0.5
 		tcmod scale 1 0.25
@@ -297,13 +300,13 @@ textures/thunder_custom/screen
 
 textures/thunder_custom/smallscreen
 {
-	qer_editorImage textures/thunder_custom_src/smallscreen
+	qer_editorImage textures/thunder_custom_src/smallscreen_d
 	q3map_surfaceLight	500
 	{
-		map textures/thunder_custom_src/smallscreen
+		map textures/thunder_custom_src/smallscreen_d
 	}
 	{
-		map textures/thunder_custom_src/bars
+		map textures/thunder_custom_src/bars_a
 		blendfunc add
 		tcmod scroll -0 0.4
 		tcmod scale 1 0.25
@@ -312,7 +315,7 @@ textures/thunder_custom/smallscreen
 
 textures/thunder_custom/ladder
 {
-	qer_editorImage textures/common/trigger
+	qer_editorImage textures/common_src/trigger_p
 	qer_trans .40
 	surfaceparm ladder
 	surfaceparm nodraw
