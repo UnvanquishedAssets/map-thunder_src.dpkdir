@@ -13,7 +13,7 @@ textures/thunder_ex/floor_grate03_trans
 	qer_editorImage		textures/thunder_ex_src/floor_grate03_d
 	qer_alphaFunc gequal 0.5
 	surfaceparm alphashadow
-	surfaceparm tra_nonsolid
+	surfaceparm trans
 	surfaceparm nomarks
 	surfaceparm metalsteps
 	nopicmip
