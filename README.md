@@ -17,6 +17,6 @@ Visit the [Unvanquished website](https://unvanquished.net/) for more information
 Legal
 -----
 
-Unless otherwise noted, the content of this package is available under the conditions of the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 New Zealand License](https://creativecommons.org/licenses/by-nc-sa/3.0/nz/).
+Unless otherwise noted, the content of this package is available under the conditions of the [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 
 Some assets may use other licenses, consult [`about/map-thunder.txt`](about/map-thunder.txt) for more information about authors and licenses.
