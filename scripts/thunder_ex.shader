@@ -11,7 +11,7 @@ textures/thunder_ex/floor_grate_03
 textures/thunder_ex/floor_grate03_trans
 {
 	qer_editorImage		textures/thunder_ex_src/floor_grate03_d
-	qer_alphaFunc gequal 0.5
+	qer_alphaFunc gequal .5
 	surfaceparm alphashadow
 	surfaceparm trans
 	surfaceparm nomarks
@@ -64,13 +64,13 @@ textures/thunder_ex/lightpanel_01_white
 	diffuseMap		textures/shared_ex_src/light1_d
 	specularMap		textures/shared_ex_src/light1_s
 	q3map_surfaceLight	3000
-	q3map_lightRGB		1 1 0.75
+	q3map_lightRGB		1 1 .75
 	{
 		blend		add
 		map			textures/shared_ex_src/light1_a
 		red		1
 		green		1
-		blue		0.75
+		blue		.75
 	}
 }
 
@@ -82,13 +82,13 @@ textures/thunder_ex/light_u201_white
 	diffuseMap		textures/shared_ex_src/light2_d
 	specularMap		textures/shared_ex_src/light2_s
 	q3map_surfaceLight	3000
-	q3map_lightRGB		1 1 0.75
+	q3map_lightRGB		1 1 .75
 	{
 		blend		add
 		map			textures/shared_ex_src/light2_a
 		red		1
 		green		1
-		blue		0.75
+		blue		.75
 	}
 }
 
@@ -100,13 +100,13 @@ textures/thunder_ex/lightpanel_01_yellow
 	diffuseMap		textures/shared_ex_src/light1_d
 	specularMap		textures/shared_ex_src/light1_s
 	q3map_surfaceLight	3000
-	q3map_lightRGB		0.8 0.6 0.2
+	q3map_lightRGB		.8 .6 .2
 	{
 		blend		add
 		map			textures/shared_ex_src/light1_a
-		red		0.8
-		green		0.6
-		blue		0.2
+		red		.8
+		green		.6
+		blue		.2
 	}
 }
 
@@ -118,13 +118,13 @@ textures/thunder_ex/light_u201_yellow
 	diffuseMap		textures/shared_ex_src/light2_d
 	specularMap		textures/shared_ex_src/light2_s
 	q3map_surfaceLight	3000
-	q3map_lightRGB		0.8 0.6 0.2
+	q3map_lightRGB		.8 .6 .2
 	{
 		blend		add
 		map			textures/shared_ex_src/light2_a
-		red		0.8
-		green		0.6
-		blue		0.2
+		red		.8
+		green		.6
+		blue		.2
 	}
 }
 
@@ -136,13 +136,13 @@ textures/thunder_ex/light_u201_blue
 	diffuseMap		textures/shared_ex_src/light2_d
 	specularMap		textures/shared_ex_src/light2_s
 	q3map_surfaceLight	3000
-	q3map_lightRGB		0.25 0.3 0.5
+	q3map_lightRGB		.25 .3 .5
 	{
 		blend		add
 		map			textures/shared_ex_src/light2_a
-		red		0.25
-		green		0.3
-		blue		0.5
+		red		.25
+		green		.3
+		blue		.5
 	}
 }
 
@@ -154,12 +154,12 @@ textures/thunder_ex/lightpanel_01_orange
 	diffuseMap		textures/shared_ex_src/light1_d
 	specularMap		textures/shared_ex_src/light1_s
 	q3map_surfaceLight	2500
-	q3map_lightRGB		0.8 0.3 0
+	q3map_lightRGB		.8 .3 0
 	{
 		blend		add
 		map			textures/shared_ex_src/light1_a
-		red		0.8
-		green		0.2
+		red		.8
+		green		.2
 		blue		0
 	}
 }
@@ -172,12 +172,12 @@ textures/thunder_ex/light_u201_orange
 	diffuseMap		textures/shared_ex_src/light2_d
 	specularMap		textures/shared_ex_src/light2_s
 	q3map_surfaceLight	2500
-	q3map_lightRGB		0.8 0.2 0
+	q3map_lightRGB		.8 .2 0
 	{
 		blend		add
 		map			textures/shared_ex_src/light2_a
-		red		0.8
-		green		0.2
+		red		.8
+		green		.2
 		blue		0
 	}
 }
@@ -190,11 +190,11 @@ textures/thunder_ex/light_u201_red
 	diffuseMap		textures/shared_ex_src/light2_d
 	specularMap		textures/shared_ex_src/light2_s
 	q3map_surfaceLight	2500
-	q3map_lightRGB		0.8 0 0
+	q3map_lightRGB		.8 0 0
 	{
 		blend		add
 		map			textures/shared_ex_src/light2_a
-		red		0.8
+		red		.8
 		green		0
 		blue		0
 	}

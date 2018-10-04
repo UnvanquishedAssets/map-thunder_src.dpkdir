@@ -107,7 +107,7 @@ textures/thunder_custom/sky
 	surfaceparm nolightmap
 	skyparms env/thunder/sky 512 -
 
-	q3map_lightRGB 0.4 0.3 0.3
+	q3map_lightRGB .4 .3 .3
 	q3map_lightmapFilterRadius 0 4
 	q3map_skyLight 60 3
 
@@ -116,7 +116,7 @@ textures/thunder_custom/sky
 	{
 		fog off
 		map textures/thunder_custom_src/stormysky
-		tcmod scroll -0 -0.2
+		tcmod scroll -0 -.2
 		tcmod scale 2 2
 		rgbGen identityLighting
 	}
@@ -138,7 +138,7 @@ textures/thunder_custom/skybright
 	surfaceparm nolightmap
 	skyparms env/thunder/sky 512 -
 
-	q3map_lightRGB 0.4 0.3 0.3
+	q3map_lightRGB .4 .3 .3
 	q3map_lightmapFilterRadius 0 4
 	q3map_skyLight 60 3
 
@@ -147,7 +147,7 @@ textures/thunder_custom/skybright
 	{
 		fog off
 		map textures/thunder_custom_src/stormyskybright
-		tcmod scroll -0 -0.2
+		tcmod scroll -0 -.2
 		tcmod scale 2 2
 		rgbGen identityLighting
 	}
@@ -163,13 +163,13 @@ textures/thunder_custom/skybright
 textures/thunder_custom/nexusglass
 {
 	qer_editorImage textures/thunder_custom_src/nexusglass_d
-	qer_trans .40
+	qer_trans .4
 	surfaceparm trans
 	cull none
 	{
 		map textures/thunder_custom_src/nexusglass_d
 		blendfunc add
-		rgbGen const ( 0.01 0.01 0.01 )
+		rgbGen const ( .01 .01 .01 )
 	}
 	{
 		map $lightmap 
@@ -186,7 +186,7 @@ textures/thunder_custom/foghull
 	surfaceparm nonsolid
 	surfaceparm trans
 	surfaceparm fog
-	fogparms ( 0.1 0.025 0.025 ) 4800
+	fogparms ( .1 .025 .025 ) 4800
 }
 
 textures/thunder_custom/blend
@@ -243,13 +243,13 @@ textures/thunder_custom/mainscreen
 	qer_editorImage textures/thunder_custom_src/mainscreen_d
 	q3map_surfaceLight	500
 	{
-		animMap 0.1 textures/thunder_custom_src/mainscreen_d textures/thunder_custom_src/mainscreen2_d
+		animMap .1 textures/thunder_custom_src/mainscreen_d textures/thunder_custom_src/mainscreen2_d
 	}
 	{
 		map textures/thunder_custom_src/bars_a
 		blendfunc add
-		tcmod scroll -0 0.25
-		tcmod scale 1 0.5
+		tcmod scroll -0 .25
+		tcmod scale 1 .5
 	}
 }
 
@@ -263,8 +263,8 @@ textures/thunder_custom/idlescreen
 	{
 		map textures/thunder_custom_src/bars_a
 		blendfunc add
-		tcmod scroll -0 0.3
-		tcmod scale 1 0.25
+		tcmod scroll -0 .3
+		tcmod scale 1 .25
 	}
 }
 
@@ -278,8 +278,8 @@ textures/thunder_custom/weatherscreen
 	{
 		map textures/thunder_custom_src/bars_a
 		blendfunc add
-		tcmod scroll -0 0.4
-		tcmod scale 1 0.25
+		tcmod scroll -0 .4
+		tcmod scale 1 .25
 	}
 }
 
@@ -293,8 +293,8 @@ textures/thunder_custom/screen
 	{
 		map textures/thunder_custom_src/bars_a
 		blendfunc add
-		tcmod scroll -0 0.5
-		tcmod scale 1 0.25
+		tcmod scroll -0 .5
+		tcmod scale 1 .25
 	}
 }
 
@@ -308,15 +308,15 @@ textures/thunder_custom/smallscreen
 	{
 		map textures/thunder_custom_src/bars_a
 		blendfunc add
-		tcmod scroll -0 0.4
-		tcmod scale 1 0.25
+		tcmod scroll -0 .4
+		tcmod scale 1 .25
 	}
 }
 
 textures/thunder_custom/ladder
 {
 	qer_editorImage textures/common_src/trigger_p
-	qer_trans .40
+	qer_trans .4
 	surfaceparm ladder
 	surfaceparm nodraw
 	surfaceparm nolightmap
@@ -333,7 +333,7 @@ textures/thunder_custom/ter_rocksand_xy
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )
-	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
+	q3map_alphaMod dotproduct2 ( 0 0 .75 )
 
 	{
 		map textures/shared_pk02_src/rock01_d
@@ -361,7 +361,7 @@ textures/thunder_custom/ter_rocksand_xz
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 0 256 )
-	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
+	q3map_alphaMod dotproduct2 ( 0 0 .75 )
 
 	{
 		map textures/shared_pk02_src/rock01_d
@@ -389,7 +389,7 @@ textures/thunder_custom/ter_rocksand_yz
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 0 256 0 ) ( 0 0 256 )
-	q3map_alphaMod dotproduct2 ( 0.0 0.0 0.75 )
+	q3map_alphaMod dotproduct2 ( 0 0 .75 )
 
 	{
 		map textures/shared_pk02_src/rock01_d
