@@ -1,7 +1,7 @@
 Thunder game level for Unvanquished
 ===================================
 
-![Thunder levelshot](meta/thunder/thunder.png)
+![Thunder levelshot](meta/thunder/thunder.webp)
 
 
 About
