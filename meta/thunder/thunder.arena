@@ -1,5 +1,6 @@
 {
-map		"thunder"
-longname	"Thunder"
-type		"tremulous"
+	map "thunder"
+	longname "Thunder"
+	author "EmperorJack"
+	type "tremulous"
 }
