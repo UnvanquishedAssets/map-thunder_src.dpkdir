@@ -104,7 +104,7 @@ textures/thunder_lightning/slowzap1
 	surfaceparm nomarks
 	surfaceparm nonsolid
 	{
-		animMap 3 textures/thunder_lightning_src/horizontallightning textures/common_src/black_d textures/common_src/black_d textures/common_src/black_d textures/common_src/black_d textures/common_src/black_d textures/common_src/black_d textures/common_src/black_d
+		animMap 3 textures/thunder_lightning_src/horizontallightning textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/shared_colors_src/black_d
 		blendfunc add
 		tcmod scroll -8 -0
 	}
@@ -118,7 +118,7 @@ textures/thunder_lightning/slowzap2
 	surfaceparm nomarks
 	surfaceparm nonsolid
 	{
-		animMap 3 textures/common_src/black_d textures/common_src/black_d textures/common_src/black_d textures/common_src/black_d textures/thunder_lightning_src/horizontallightning textures/common_src/black_d textures/common_src/black_d textures/common_src/black_d
+		animMap 3 textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/thunder_lightning_src/horizontallightning textures/shared_colors_src/black_d textures/shared_colors_src/black_d textures/shared_colors_src/black_d
 		blendfunc add
 		tcmod scroll -8 -0
 	}

@@ -206,7 +206,7 @@ textures/thunder_custom/nexusglass
 
 textures/thunder_custom/foghull
 {
-	qer_editorImage textures/common_src/black_d
+	qer_editorImage textures/shared_colors_src/black_d
 
 	surfaceparm nodraw
 	surfaceparm nonsolid
@@ -218,7 +218,7 @@ textures/thunder_custom/foghull
 
 textures/thunder_custom/blend
 {
-	qer_editorImage textures/common_src/black_d
+	qer_editorImage textures/shared_colors_src/black_d
 
 	surfaceparm trans
 	surfaceparm nolightmap
@@ -226,7 +226,7 @@ textures/thunder_custom/blend
 	surfaceparm nonsolid
 
 	{
-		map textures/common_src/black_d
+		map textures/shared_colors_src/black_d
 		blendfunc add
 	}
 }
