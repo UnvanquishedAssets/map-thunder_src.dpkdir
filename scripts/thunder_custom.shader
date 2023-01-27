@@ -3,9 +3,8 @@ textures/thunder_custom/greytexture
 	qer_editorImage textures/thunder_custom_src/greytexture_d
 
 	{
-		diffuseMap  textures/thunder_custom_src/greytexture_d
+		diffuseMap textures/thunder_custom_src/greytexture_d
 	}
-
 }
 
 textures/thunder_custom/map
@@ -13,9 +12,8 @@ textures/thunder_custom/map
 	qer_editorImage textures/thunder_custom_src/map_d
 
 	{
-		diffuseMap  textures/thunder_custom_src/map_d
+		diffuseMap textures/thunder_custom_src/map_d
 	}
-
 }
 
 textures/thunder_custom/danger
@@ -23,9 +21,8 @@ textures/thunder_custom/danger
 	qer_editorImage textures/thunder_custom_src/danger_d
 
 	{
-		diffuseMap  textures/thunder_custom_src/danger_d
+		diffuseMap textures/thunder_custom_src/danger_d
 	}
-
 }
 
 textures/thunder_custom/whitelight
@@ -383,14 +380,14 @@ textures/thunder_custom/ter_rocksand_xy
 	q3map_alphaMod dotproduct2 ( 0 0 .75 )
 
 	{
-		diffuseMap  textures/shared_pk02_src/rock01_d
-		normalMap   textures/shared_pk02_src/rock01_n
+		diffuseMap textures/shared_pk02_src/rock01_d
+		normalMap textures/shared_pk02_src/rock01_n
 		specularMap textures/shared_pk02_src/rock01_s
 		rgbGen identity
 	}
 	{
-		diffuseMap  textures/shared_pk02_src/sand01_d
-		normalMap   textures/shared_pk02_src/sand01_n
+		diffuseMap textures/shared_pk02_src/sand01_d
+		normalMap textures/shared_pk02_src/sand01_n
 		specularMap textures/shared_pk02_src/sand01_s
 		blendFunc blend
 		alphaGen vertex
@@ -407,14 +404,14 @@ textures/thunder_custom/ter_rocksand_xz
 	q3map_alphaMod dotproduct2 ( 0 0 .75 )
 
 	{
-		diffuseMap  textures/shared_pk02_src/rock01_d
-		normalMap   textures/shared_pk02_src/rock01_n
+		diffuseMap textures/shared_pk02_src/rock01_d
+		normalMap textures/shared_pk02_src/rock01_n
 		specularMap textures/shared_pk02_src/rock01_s
 		rgbGen identity
 	}
 	{
-		diffuseMap  textures/shared_pk02_src/sand01_d
-		normalMap   textures/shared_pk02_src/sand01_n
+		diffuseMap textures/shared_pk02_src/sand01_d
+		normalMap textures/shared_pk02_src/sand01_n
 		specularMap textures/shared_pk02_src/sand01_s
 		blendFunc blend
 		alphaGen vertex
@@ -431,14 +428,14 @@ textures/thunder_custom/ter_rocksand_yz
 	q3map_alphaMod dotproduct2 ( 0 0 .75 )
 
 	{
-		diffuseMap  textures/shared_pk02_src/rock01_d
-		normalMap   textures/shared_pk02_src/rock01_n
+		diffuseMap textures/shared_pk02_src/rock01_d
+		normalMap textures/shared_pk02_src/rock01_n
 		specularMap textures/shared_pk02_src/rock01_s
 		rgbGen identity
 	}
 	{
-		diffuseMap  textures/shared_pk02_src/sand01_d
-		normalMap   textures/shared_pk02_src/sand01_n
+		diffuseMap textures/shared_pk02_src/sand01_d
+		normalMap textures/shared_pk02_src/sand01_n
 		specularMap textures/shared_pk02_src/sand01_s
 		blendFunc blend
 		alphaGen vertex
