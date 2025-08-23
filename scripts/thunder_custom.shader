@@ -213,7 +213,7 @@ textures/thunder_custom/foghull
 	fogparms ( .1 .025 .025 ) 4800
 }
 
-textures/thunder_custom/blend
+textures/thunder/blend
 {
 	qer_editorImage textures/shared_colors_src/black_d
 
