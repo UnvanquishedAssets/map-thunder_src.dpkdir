@@ -383,6 +383,7 @@ textures/thunder_custom/ter_rocksand_xy
 		diffuseMap textures/shared_pk02_src/rock01_d
 		normalMap textures/shared_pk02_src/rock01_n
 		specularMap textures/shared_pk02_src/rock01_s
+		rawSpecularMap
 		rgbGen identity
 	}
 	{
@@ -407,6 +408,7 @@ textures/thunder_custom/ter_rocksand_xz
 		diffuseMap textures/shared_pk02_src/rock01_d
 		normalMap textures/shared_pk02_src/rock01_n
 		specularMap textures/shared_pk02_src/rock01_s
+		rawSpecularMap
 		rgbGen identity
 	}
 	{
@@ -431,6 +433,7 @@ textures/thunder_custom/ter_rocksand_yz
 		diffuseMap textures/shared_pk02_src/rock01_d
 		normalMap textures/shared_pk02_src/rock01_n
 		specularMap textures/shared_pk02_src/rock01_s
+		rawSpecularMap
 		rgbGen identity
 	}
 	{
